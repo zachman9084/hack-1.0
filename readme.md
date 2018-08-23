@@ -11,7 +11,7 @@ which produces an executable file named a.out, to execute it, type:
 
 `./a.out`
 
-Contributed to by: Zach Hoffman
+Contributed to by: Zach Hoffman,Benoit Bikeli
 https://github.com/zachman9084/hack-1.0
 
 
